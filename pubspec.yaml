@@ -10,11 +10,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  bloc: ^1.0.0
+  bloc: ^2.0.0
   cupertino_icons: ^0.1.2
-  flutter_bloc: ^1.0.0
+  flutter_bloc: ^2.0.0
 
 dev_dependencies:
+  effective_dart: ^1.1.0
   flutter_test:
     sdk: flutter
 
